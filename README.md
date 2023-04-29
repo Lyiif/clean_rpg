@@ -10,5 +10,4 @@ A clean and simple template for a character creation screen for an abstract rpg 
 4. Install the project dependencies with the following command:
 'npm install'
 5. Save the file and return to the command prompt.
-6. Run the project using the following command:
-'npm run web'
+6. Run the project using the `npm run web` command.
